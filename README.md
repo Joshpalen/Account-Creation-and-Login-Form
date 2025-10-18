@@ -1,6 +1,6 @@
 ﻿# Account Creation and Login Form (Frontend)
 
-A small, dependency‑free frontend (HTML/CSS/JS) for the Account Auth Backend. It provides user flows for registration, login, email verification, password reset, and optional TOTP-based 2FA.
+A dependency‑free frontend (HTML/CSS/JS) for the Account Auth Backend. It provides user flows for registration, login, email verification, password reset, and optional TOTP-based 2FA.
 
 Features
 - Sign up with strong‑password guidance
